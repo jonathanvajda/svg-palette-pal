@@ -1,5 +1,5 @@
 /**
- * SVG Color & Math Studio
+ * SVG Palette Pal
  * Zero-dependency browser utility for deterministic SVG color analysis,
  * single-axis HSL shifts, color merging, and interactive CIELAB brand quantization.
  */
